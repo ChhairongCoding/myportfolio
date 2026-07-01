@@ -1,0 +1,6 @@
+{
+  "name": "Developer Portfolio",
+  "description": "A sleek, dark-mode developer portfolio with a bento grid glassmorphism layout, project gallery, interactive AI Twin chatbot, and contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
